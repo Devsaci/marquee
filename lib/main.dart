@@ -28,10 +28,10 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("107. InheritedWidget and Context"),
+        title: const Text("108. Marquee"),
       ),
       body: const Center(
-        child: Text("data"),
+        child: Text("Text"),
       ),
     );
   }
